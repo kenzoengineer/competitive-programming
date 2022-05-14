@@ -1,5 +1,4 @@
 # Sliding Window
-
 fruits = [1,2,3,2,2,1]
 
 def totalFruit(fruits):
