@@ -39,15 +39,15 @@
 
 ## **7. Pattern: Tree Breadth First Search**
 
-- []  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X]  [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - []  [Reverse Level Order Traversal (easy) *](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - []  [Zigzag Traversal (medium)](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 - []  [Level Averages in a Binary Tree (easy)](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
-- []  [Minimum Depth of a Binary Tree (easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [X]  [Minimum Depth of a Binary Tree (easy)](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [ ]  Level Order Successor (easy)
 - [ ]  Connect Level Order Siblings (medium)
 - [ ]  Problem Challenge 1 - Connect All Level Order Siblings (medium)
-- []  [Problem Challenge 2 - Right View of a Binary Tree (easy)](https://leetcode.com/problems/binary-tree-right-side-view/)
+- [X]  [Problem Challenge 2 - Right View of a Binary Tree (easy)](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## **8. Pattern: Tree Depth First Search**
 
@@ -61,7 +61,7 @@
 
 ## **4. Pattern: Merge Intervals**
 
-- []  [Merge Intervals](https://leetcode.com/problems/merge-intervals/) (medium)
+- [X]  [Merge Intervals](https://leetcode.com/problems/merge-intervals/) (medium)
 - []  [Insert Interval (medium) *](https://leetcode.com/problems/insert-interval/)
 - []  [Intervals Intersection (medium)](https://leetcode.com/problems/interval-list-intersections/)
 - []  [Conflicting Appointments (medium)](https://leetcode.com/problems/non-overlapping-intervals/)
