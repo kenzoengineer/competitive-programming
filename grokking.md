@@ -94,7 +94,7 @@
 - []  [Order-agnostic Binary Search (easy)](https://leetcode.com/problems/binary-search/)
 - [ ]  Ceiling of a Number (medium) *
 - []  [Next Letter (medium)](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
-- []  [Number Range (medium) *](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+- [X]  [Number Range (medium) *](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - []  Search in a Sorted Infinite Array (medium) *
 - []  [Minimum Difference Element (medium)](https://leetcode.com/problems/minimum-absolute-difference/)
 - [ ]  [Bitonic Array Maximum (easy)](https://leetcode.com/problems/monotonic-array/)
