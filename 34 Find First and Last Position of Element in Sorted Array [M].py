@@ -1,8 +1,8 @@
+# Binary Search, Array
+
 import math
 nums = [5, 7, 7, 8, 8, 8, 8, 10]
 target = 8
-
-
 def searchRange(nums, target):
     res = []
     l = 0
@@ -14,6 +14,8 @@ def searchRange(nums, target):
             l = m + 1
         else:
             r = m
+    if l >= len(nums) or nums[l] != target:
+        return [-1,-1]
     res.append(l)
 
     l = 0
@@ -27,6 +29,5 @@ def searchRange(nums, target):
             l = m
     res.append(r)
     return res
-
 
 print(searchRange(nums, target))
